@@ -116,7 +116,7 @@ export default {
   ]
   },
   footer: {
-    tagline: "Made By ॐ",
+    tagline: "Made By Om",
     links: [
       {
         name: "Twitter",
