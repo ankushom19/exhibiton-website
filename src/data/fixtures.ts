@@ -116,7 +116,7 @@ export default {
   ]
   },
   footer: {
-    tagline: "Made By Class 10 with 🧠 ",
+    tagline: "Made By ॐ",
     links: [
       {
         name: "Twitter",
