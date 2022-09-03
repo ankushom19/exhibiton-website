@@ -1,8 +1,8 @@
 export default {
-  author: "{𝒸❁𝓂𝓅𝓊𝓉𝑒𝓇%} (!𝒹𝑒𝓅𝒶𝓇𝓉𝓂𝑒𝓃𝓉.)",
+  author: "{𝒮.𝒯.𝐸.𝑀%} (!𝒹𝑒𝓅𝒶𝓇𝓉𝓂𝑒𝓃𝓉.)",
   hero: {
-    subtitle: "Department of RKMV Biennial Exhibition",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis posuere dolor quis pulvinar. Aliquam non felis vel eros mattis faucibus ut in arcu.  ",
+    subtitle: "Department of RKMV Centenary Exhibition 2022",
+    description: "The Place with students under the guidance of the teachers tinkers with the ideas and concepts of the science, combine them with technology to create someting fascinating .",
     cta: "Browse Projects",
   },
   products: {
