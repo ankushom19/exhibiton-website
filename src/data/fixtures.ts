@@ -1,24 +1,24 @@
 export default {
-  author: "{𝒮.𝒯.𝐸.𝑀%} (!𝒹𝑒𝓅𝒶𝓇𝓉𝓂𝑒𝓃𝓉.)",
+  author: "{𝒸❁𝓂𝓅𝓊𝓉𝑒𝓇%} (!𝒹𝑒𝓅𝒶𝓇𝓉𝓂𝑒𝓃𝓉.)",
   hero: {
-    subtitle: "Department of RKMV Centenary Exhibition 2022",
-    description: "The Place where students under the guidance of the teachers tinkers with the ideas and concepts of the science, combine them with technology to create someting fascinating .",
+    subtitle: "Department of RKMV Biennial Exhibition",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis posuere dolor quis pulvinar. Aliquam non felis vel eros mattis faucibus ut in arcu.  ",
     cta: "Browse Projects",
   },
   products: {
     featured: [
       {
-        name: "C.N.C Plotter",
-        medium: "Arduino",
-        summary: "From Machine to papaer",
+        name: "Test",
+        medium: "Technologies Used",
+        summary: "Crisp Lines",
         copy: [
-          "A robotic mechanism made using Arduino capable of mechanically using a pen to draw the input on a paper"
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a ipsum sit amet nulla venenatis suscipit. Vivamus quis euismod lacus. Nunc ac justo diam."
         ],
         links: {
           color: "#363636",
           primary: {
-            name: "Live Demo",
-            url: "https://youtube.com/"
+            name: "Links To The Code",
+            url: "https://github.me/"
           }
         },
         images: [
@@ -27,21 +27,21 @@ export default {
         ]
       },
       {
-        name: "Glove Controlled Robotic Hand",
-        medium: "Arduino",
-        summary: "Controlling Robot with Hand",
+        name: "Test",
+        medium: "Technologies Used",
+        summary: "Crisp Lines",
         copy: [
-          "Using Flex Sensors and Arduino we can control the robotic hand with the help of glove."
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a ipsum sit amet nulla venenatis suscipit. Vivamus quis euismod lacus. Nunc ac justo diam."
         ],
         links: {
           color: "#363636",
           primary: {
-            name: "Live Demo",
-            url: "https://youtube.com/"
+            name: "Links To The Code",
+            url: "https://github.me/"
           }
         },
         images: [
-          "https://thumbs.gfycat.com/SociableConfusedBergerpicard-mobile.mp4",
+          "https://media3.giphy.com/media/11YMFLRM0gWZ1u/200w.webp?cid=ecf05e47ecj93sahgqj2dlix22xf6d7lpnpdeplgdwcc3z8r&rid=200w.webp&ct=ghttps://i0.wp.com/sixcolors.com/wp-content/uploads/2021/06/monterey-intro2-6c.jpg?ssl=1",
 
         ]
       },
